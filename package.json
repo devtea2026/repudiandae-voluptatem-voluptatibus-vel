@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/repudiandae-voluptatem-voluptatibus-vel",
-  "version": "2.7.86",
+  "version": "2.7.87",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -449,5 +449,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/repudiandae-voluptatem-voluptatibus-vel/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
